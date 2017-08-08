@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">myRssReader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_manage_feeds">Manage Feeds</string>
+    <string name="action_send_DB_by_email">Send DB to e-mail</string>
+    <string name="title_activity_feed_manager">FeedManager</string>
+    <string name="add_new_feed_button">Save Feed</string>
+
+    <string-array name="context_menu_feed_list">
+        <item>Delete</item>
+        <item>Edit</item>
+    </string-array>
+
+    <string name="db_back_up_name">dataBaseBackup.db</string>
+
+    <string name="empty_post_list">List is empty</string>
+    <string name="title_activity_post_detail">PostDetailActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="left_menu_add_new_feed_title">Add feed</string>
+    <string name="context_menu_title">Select The Action</string>
+    <string name="context_menu_edit_title">Edit</string>
+    <string name="context_menu_delete_title">Delete</string>
+    <string name="edit_feed_name_description">Enter feed name</string>
+    <string name="edit_feed_link_description">Edit feed link</string>
+    <string name="edit_feed_dialog_title">Edit feed source</string>
+    <string name="edit_feed_dialog_ok_button">Ok</string>
+    <string name="edit_feed_dialog_cancel_button">Cancel</string>
+    <string name="add_feed_dialog_title">Add new feed source</string>
+
+</resources>
